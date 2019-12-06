@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{998E9F48-7185-02DA-0C51-D3C1E70C03FC}|">
+  <MonoDevelop.Ide.ItemProperties.PopThatBubble PreferredExecutionTarget="0531639c-605d-43ea-8bd2-eea9a1d3aa7d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RayCastShooter.cs" Line="89" Column="35" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="118" Column="1" />
+      <File FileName="Assets/Scripts/BubbleGrid.cs" Line="389" Column="1" />
+      <File FileName="Assets/Scripts/Bubble.cs" Line="68" Column="51" />
+      <File FileName="Assets/Scripts/ParticleManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/LevelSystem.cs" Line="39" Column="32" />
+      <File FileName="Assets/Scripts/SpriteCache.cs" Line="9" Column="46" />
+      <File FileName="Assets/Scripts/CameraShake.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Audio/AudioManager.cs" Line="41" Column="4" />
+      <File FileName="Assets/Scripts/Audio/Sound.cs" Line="26" Column="28" />
+      <File FileName="Assets/Scripts/Events/EventManager.cs" Line="22" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PopThatBubble" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Audio" expanded="True" />
+                <Node name="Events" expanded="True" />
+                <Node name="GameController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
